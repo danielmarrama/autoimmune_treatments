@@ -11,17 +11,17 @@ This repo attempts to compile the current treatmeants for autoimmune diseases as
 		* CD-20
 			* Rituximab (Rituxan)
 				* SLE
-					* https://pubmed.ncbi.nlm.nih.gov/20039413/
+					* https://pubmed.ncbi.nlm.nih.gov/20039413/ **(not effective)**
 				* Sjögren syndrome
-					* https://pubmed.ncbi.nlm.nih.gov/24727841/
-					* https://pubmed.ncbi.nlm.nih.gov/28296257/
+					* https://pubmed.ncbi.nlm.nih.gov/24727841/ **(some fatigue improvement early)**
+					* https://pubmed.ncbi.nlm.nih.gov/28296257/ **(not effective)**
 			* Ocrelizumab (Ocrevus)
 			* Obinutuzumab (Gazyva)
 			* Ofatumumab (Kesimpta)
 		* CD-19
 	* CAR-T Therapy
 	    * CD-19
-	    	* https://pubmed.ncbi.nlm.nih.gov/36109639/
+	    	* https://pubmed.ncbi.nlm.nih.gov/36109639/ **(complete remission in all 5 patients after 1 year follow-up)**
 	    * BCMA
 * T Cell
 
