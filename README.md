@@ -37,8 +37,24 @@ This repo attempts to compile the current treatmeants for autoimmune diseases as
 
 #### 2. Cellular Inhibition
 * Corticosteroids
+	* Prednisone
+	* Methylprednisone
+	* Dexamethasone
 * JAK (Janus kinase) Inhibitors
+	* Tofacitinib (Xeljanz)
+	* Upadacitinib (Rinvoq)
+	* Abrocitinib (Cibinqo)
+	* Baricitinib (Olumiant)
+	* Filgotinib (Jyseleca)
+	* Ruxolitinib (Jakafi / Jakavi)
+	* Peficitinib (Smyraf)
+	* Pacritinib (Vonjo)
+	* Oclacitinib (Apoquel)
+	* Fedratinib (Inrebic)
+	* Delgocitinib (Corectim)
 * Purine Synthesis Inhibitors
+	* Azathioprione (Imuran)
+	* Mycophenolic acid (CellCept)
 
 #### 3. Cytokine Inhibition
 * TNA-alpha
