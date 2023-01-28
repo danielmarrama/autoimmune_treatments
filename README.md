@@ -35,14 +35,27 @@ This repo attempts to compile the current treatmeants for autoimmune diseases as
 	    * BCMA (B cell maturation antigen)
 * T Cell
 
-#### 2. Microbiota Alteration
-
-
+#### 2. Cellular Inhibition
+* Corticosteroids
+* JAK (Janus kinase) Inhibitors
+* Purine Synthesis Inhibitors
 
 #### 3. Cytokine Inhibition
+* TNA-alpha
+* IL-6
+* IL-17
+* IL-23
 
 
-#### 4. Antibody Targeting
+#### 4. Antibody Reduction
+* Plasmapharesis
+* IVIg (intravenous immunoglobulin)
 
 
 #### 5. HSC Transplantation
+
+
+#### 6. Microbiota Alteration
+
+
+#### 7. T<sub>reg</sub> Engineering
