@@ -34,12 +34,16 @@ This repo attempts to compile the current treatmeants for autoimmune diseases as
 	    	* https://pubmed.ncbi.nlm.nih.gov/36109639/ **(complete remission in all 5 patients with severe SLE after 1 year follow-up) (!)**
 	    * BCMA (B cell maturation antigen)
 * T Cell
+	* Antibody
+		* CD3ε
+			* Muromonab-CD3 (Orthoclone OKT3)
 
 #### 2. Cellular Inhibition
 * Corticosteroids
 	* Prednisone
 	* Methylprednisone
 	* Dexamethasone
+	* Hydrocortisone
 * JAK (Janus kinase) Inhibitors
 	* Tofacitinib (Xeljanz)
 	* Upadacitinib (Rinvoq)
@@ -55,23 +59,49 @@ This repo attempts to compile the current treatmeants for autoimmune diseases as
 * Purine Synthesis Inhibitors
 	* Azathioprione (Imuran)
 	* Mycophenolic acid (CellCept)
+	* Mercaptopurine (Purinethol)
+* Pyrimidine Synthesis Inhibitors
+	* Fluorouracil (Adrucil)
+	* Teriflunomide (Aubagio)
+	* Leflunomide (Arava)
+* Calcineurin Inhibitors
+	* Tacrolimus (Prograf)
+	* Ciclosporin
+* mTOR inhibitors
+	* Rapamycin (Sirolimus)
+	* Temsirolimus (Torisel)
+	* Everolimus (Afinitor)
+	* Ridaforolimus
+	* Umirolimus (Biolimus)
+	* Zotarolimus
+* Other
+	* Cyclophosphamide - **alkylating mustard agent**
+	* Methotrexate (MTX) - **dihydrofolate reductase inhibitor**
+	* Fingolimod (Gilenya) - **sphingosine-1-phosphate receptor modulator**
+	* Myriocin (ISP-1 / thermozymocidin) - **serine palmitoyltransferase inhibitor**
+
 
 #### 3. Cytokine Inhibition
-* TNA-alpha
+* TNFα
+* IL-1
 * IL-6
 * IL-17
 * IL-23
 
 
-#### 4. Antibody Reduction
+#### 4. Cytokine Therapy
+* IL-10
+
+
+#### 5. Antibody Reduction
 * Plasmapharesis
 * IVIg (intravenous immunoglobulin)
 
 
-#### 5. HSC Transplantation
+#### 6. HSC Transplantation
 
 
-#### 6. Microbiota Alteration
+#### 7. Microbiome Alteration
 
 
-#### 7. T<sub>reg</sub> Engineering
+#### 8. T<sub>reg</sub> Engineering
