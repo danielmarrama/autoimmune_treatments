@@ -1,8 +1,7 @@
 ## Autoimmune Treatments
-
 To date, besides some exceptions, autoimmune diseases cannot be cured, only treated.
 
-This repo attempts to compile the current treatmeants for autoimmune diseases as well as possible cures. Notes and literature sources are included.
+This repo attempts to compile the current treatments for autoimmune diseases as well as possible cures. Notes and literature sources are included.
 
 
 #### 1. Cell Depletion
@@ -29,6 +28,8 @@ This repo attempts to compile the current treatmeants for autoimmune diseases as
 			* Loncastuximab tesirine (Zynlonta)
 			* Tafasitamab (Monjuvi)
 			* Blinatumomab (Blincyto) - ***targets CD3 as well***
+		* BAFF (B-cell activating factor)
+			* Belimumab (Benlysta)
 	* CAR-T Therapy
 	    * CD-19
 	    	* https://pubmed.ncbi.nlm.nih.gov/36109639/ **(complete remission in all 5 patients with severe SLE after 1 year follow-up) (!)**
@@ -44,6 +45,7 @@ This repo attempts to compile the current treatmeants for autoimmune diseases as
 	* Methylprednisone
 	* Dexamethasone
 	* Hydrocortisone
+	* Budesonide (Pulmicort)
 * JAK (Janus kinase) Inhibitors
 	* Tofacitinib (Xeljanz)
 	* Upadacitinib (Rinvoq)
@@ -82,15 +84,21 @@ This repo attempts to compile the current treatmeants for autoimmune diseases as
 
 
 #### 3. Cytokine Inhibition
+* Interferon type I
 * TNFα
 * IL-1
+* IL-4
+* IL-5
 * IL-6
+* IL-12
+* IL-13
 * IL-17
 * IL-23
 
 
 #### 4. Cytokine Therapy
 * IL-10
+* IL-35
 
 
 #### 5. Antibody Reduction
@@ -102,6 +110,7 @@ This repo attempts to compile the current treatmeants for autoimmune diseases as
 
 
 #### 7. Microbiome Alteration
+https://pubmed.ncbi.nlm.nih.gov/35534624/
 
 
 #### 8. T<sub>reg</sub> Engineering
