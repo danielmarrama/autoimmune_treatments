@@ -23,7 +23,13 @@ This repo attempts to compile the current treatments for autoimmune diseases as 
 				* Autoimmune Encephalitis
 					* https://pubmed.ncbi.nlm.nih.gov/35129803/ **(did not meet recruitment goals)**
 			* Obinutuzumab (Gazyva)
+				* **No RCTs for autoimmunity.**
 			* Ofatumumab (Kesimpta)
+				* Multiple Sclerosis
+					* https://www.nejm.org/doi/full/10.1056/NEJMoa1917246 **(lower relapse rates than teriflunomide treatment)**
+					* https://pubmed.ncbi.nlm.nih.gov/29695594/ **(demonstrated efficacy)**
+				* Rheumatoid Arthritis
+					* https://pubmed.ncbi.nlm.nih.gov/20506254/ **(clinically effective)**
 		* CD-19 - ***also expressed by plasma cells***
 			* Loncastuximab tesirine (Zynlonta)
 			* Tafasitamab (Monjuvi)
