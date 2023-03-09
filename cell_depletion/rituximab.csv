@@ -1,5 +1,5 @@
-ClinicalTrials ID,PubMed ID,Disease,Number of Participants,Met Primary End Point,Link
-NCT00137969,20039413,Systemic lupus erythematosus,257,No,https://pubmed.ncbi.nlm.nih.gov/20039413/
-NCT00740948,24727841,Sjögren syndrome,120,No,https://pubmed.ncbi.nlm.nih.gov/24727841/
-,28296257,Sjögren syndrome,133,No,https://pubmed.ncbi.nlm.nih.gov/28296257/
-NCT00372892,22223819,Immune thrombocytopenia,60,No,https://pubmed.ncbi.nlm.nih.gov/22223819/
+ClinicalTrials ID,PubMed ID,Disease,Number of Participants,Comparator,Met Primary End Point,Link
+NCT00137969,20039413,Systemic lupus erythematosus,257,Placebo,No,https://pubmed.ncbi.nlm.nih.gov/20039413/
+NCT00740948,24727841,Sjögren syndrome,120,Placebo,No,https://pubmed.ncbi.nlm.nih.gov/24727841/
+,28296257,Sjögren syndrome,133,Placebo,No,https://pubmed.ncbi.nlm.nih.gov/28296257/
+NCT00372892,22223819,Immune thrombocytopenia,60,Placebo,No,https://pubmed.ncbi.nlm.nih.gov/22223819/

@@ -4,23 +4,18 @@ To date, besides some exceptions, autoimmune diseases cannot be cured, only trea
 This repo attempts to compile the current treatments for autoimmune diseases as well as possible cures. Notes and literature sources are included.
 
 
-#### 1. Cell Depletion
+#### 1. [Cell Depletion](https://github.com/danielmarrama/autoimmunetreatments/tree/main/cell_depletion)
 * B Cell
 	* Antibody
 		* CD-20 - ***not expressed by plasma cells***
 			* [Rituximab (Rituxan)](cell_depletion/rituximab.csv)
-			* Ocrelizumab (Ocrevus)
-				* Multiple Sclerosis
-					* https://pubmed.ncbi.nlm.nih.gov/28002688/ **(lower rates of disease and MRI progression compared to placebo)**
-					* https://pubmed.ncbi.nlm.nih.gov/28002679/ **(lower rates of disease and progression compared to interferon beta-1a)**
-				* Autoimmune Encephalitis
-					* https://pubmed.ncbi.nlm.nih.gov/35129803/ **(did not meet recruitment goals)**
-			* Obinutuzumab (Gazyva)
-			* Ofatumumab (Kesimpta)
+			* [Ocrelizumab (Ocrevus)](cell_depletion/ocrelizumab.csv)
+			* Obinutuzumab (Gazyva) - **No RCTs for autoimmunity.**
+			* [Ofatumumab (Kesimpta)](cell_depletion/ofatumumab.csv)
 		* CD-19 - ***expressed by plasma cells***
 			* Loncastuximab tesirine (Zynlonta)
 			* Tafasitamab (Monjuvi)
-			* Blinatumomab (Blincyto) - ***targets CD3 as well***
+			* Blinatumomab (Blincyto) - **targets CD3 as well**
 		* BAFF (B-cell activating factor)
 			* Belimumab (Benlysta)
 	* CAR-T Therapy
