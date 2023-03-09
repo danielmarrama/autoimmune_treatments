@@ -7,21 +7,18 @@ This repo attempts to compile the current treatments for autoimmune diseases as 
 #### 1. [Cell Depletion](https://github.com/danielmarrama/autoimmunetreatments/tree/main/cell_depletion)
 * B Cell
 	* Antibody
-		* CD-20 - ***not expressed by plasma cells***
+		* CD20 - ***not expressed by plasma cells***
 			* [Rituximab (Rituxan)](cell_depletion/rituximab.csv)
 			* [Ocrelizumab (Ocrevus)](cell_depletion/ocrelizumab.csv)
 			* Obinutuzumab (Gazyva) - **No RCTs for autoimmunity.**
 			* [Ofatumumab (Kesimpta)](cell_depletion/ofatumumab.csv)
-		* CD-19 - ***expressed by plasma cells***
+		* CD19 - ***expressed by plasma cells***
 			* Loncastuximab tesirine (Zynlonta)
 			* Tafasitamab (Monjuvi)
-			* Blinatumomab (Blincyto) - **targets CD3 as well**
-		* BAFF (B-cell activating factor)
-			* Belimumab (Benlysta)
-	* CAR-T Therapy
-	    * CD-19
-	    	* https://pubmed.ncbi.nlm.nih.gov/36109639/ **(complete remission in all 5 patients with severe SLE after 1 year follow-up) (!)**
-	    * BCMA (B cell maturation antigen)
+			* Blinatumomab (Blincyto) - **Targets CD3 as well.**
+	* [CAR-T Therapy](cell_depletion/car_t.csv)
+	    * CD19 - **(complete remission in all 5 patients with severe SLE)**
+	    * BCMA (B cell maturation antigen) - **No research yet,**
 * T Cell
 	* Antibody
 		* CD3ε
@@ -71,7 +68,9 @@ This repo attempts to compile the current treatments for autoimmune diseases as 
 	* Myriocin (ISP-1 / thermozymocidin) - **serine palmitoyltransferase inhibitor**
 
 
-#### 3. Cytokine Inhibition
+#### 3. Cytokine Inhibition		* BAFF (B-cell activating factor)
+* BAFF
+	* Belimumab (Benlysta)
 * Interferon type I
 * TNFα
 * IL-1
