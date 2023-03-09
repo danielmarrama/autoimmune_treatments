@@ -8,14 +8,7 @@ This repo attempts to compile the current treatments for autoimmune diseases as 
 * B Cell
 	* Antibody
 		* CD-20 - ***not expressed by plasma cells***
-			* Rituximab (Rituxan)
-				* SLE
-					* https://pubmed.ncbi.nlm.nih.gov/20039413/ **(no difference compared to placebo)**
-				* Sjögren syndrome
-					* https://pubmed.ncbi.nlm.nih.gov/24727841/ **(some fatigue improvement early)**
-					* https://pubmed.ncbi.nlm.nih.gov/28296257/ **(no difference compared to placebo)**
-				* Immune thrombocytopenia
-					* https://pubmed.ncbi.nlm.nih.gov/22223819/ **(no difference compared to placebo)**
+			* [Rituximab (Rituxan)](cell_depletion/rituximab.csv)
 			* Ocrelizumab (Ocrevus)
 				* Multiple Sclerosis
 					* https://pubmed.ncbi.nlm.nih.gov/28002688/ **(lower rates of disease and MRI progression compared to placebo)**
@@ -23,14 +16,8 @@ This repo attempts to compile the current treatments for autoimmune diseases as 
 				* Autoimmune Encephalitis
 					* https://pubmed.ncbi.nlm.nih.gov/35129803/ **(did not meet recruitment goals)**
 			* Obinutuzumab (Gazyva)
-				* **No RCTs for autoimmunity.**
 			* Ofatumumab (Kesimpta)
-				* Multiple Sclerosis
-					* https://www.nejm.org/doi/full/10.1056/NEJMoa1917246 **(lower relapse rates than teriflunomide treatment)**
-					* https://pubmed.ncbi.nlm.nih.gov/29695594/ **(demonstrated efficacy)**
-				* Rheumatoid Arthritis
-					* https://pubmed.ncbi.nlm.nih.gov/20506254/ **(clinically effective)**
-		* CD-19 - ***also expressed by plasma cells***
+		* CD-19 - ***expressed by plasma cells***
 			* Loncastuximab tesirine (Zynlonta)
 			* Tafasitamab (Monjuvi)
 			* Blinatumomab (Blincyto) - ***targets CD3 as well***
@@ -103,6 +90,7 @@ This repo attempts to compile the current treatments for autoimmune diseases as 
 
 
 #### 4. Cytokine Therapy
+* TGFβ
 * IL-10
 * IL-35
 
